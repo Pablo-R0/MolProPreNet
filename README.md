@@ -68,11 +68,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-# Train the model
-python train.py
-
-# Evaluate on test set
-python evaluate.py
+# To be updated
 ```
 
 ---
